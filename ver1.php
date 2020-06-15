@@ -1,7 +1,7 @@
 <?php
 
 // P.S This script needs to be uploaded on a server in order to work.
-
+//This is test
     $emailTo = ""; //Insert Recipent's email here
 
     $subject = ""; //Insert subject here
